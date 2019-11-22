@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: APIResponse
+Version: 0.2
+Summary: A Custom Response class for the APIs
+Home-page: https://github.com/innovaccer/APIResponse
+Author: Ayush Aggarwal
+Author-email: ayush.aggarwal@innovaccer.com
+License: MIT
+Download-URL: https://github.com/innovaccer/APIResponse/archive/v0.1.tar.gz
+Description: UNKNOWN
+Keywords: python,flask,response
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
